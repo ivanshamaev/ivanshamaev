@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **Python, Apache Airflow, ClickHouse**
 
-- 📫 How to reach me **qlik@ivan-shamaev.ru**
-
-- 📄 Know about my experiences [https://ivan-shamaev.ru/cv](https://ivan-shamaev.ru/cv)
-
 <p align="left">
 </p>
 
