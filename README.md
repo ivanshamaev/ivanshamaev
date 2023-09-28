@@ -17,11 +17,11 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/apache_airflow.png" alt="apache_airflow" width="40" height="40"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/apache_superset.png" alt="apache_superset" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/clickhouse_database.png" alt="clickhouse" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/5ac58b744a1dda6c23e5a360215231fa28541016/images/qliklogo.svg" alt="Qlik" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/sql.png" alt="sql" width="40" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/apache_airflow.png" alt="apache_airflow" height="40"/> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/apache_superset.png" alt="apache_superset" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/clickhouse_database.png" alt="clickhouse" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/5ac58b744a1dda6c23e5a360215231fa28541016/images/qliklogo.svg" alt="Qlik"  height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/sql.png" alt="sql" height="40"/> </a> 
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
