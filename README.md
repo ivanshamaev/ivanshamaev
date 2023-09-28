@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan Shamaev</h1>
-<h3 align="center">A Senior BI Developer (Qlik Sense, Apache Superset)</h3>
+<h3 align="center">Senior BI Developer (Qlik Sense, Apache Superset)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanshamaev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanshamaev" /> </p>
 
