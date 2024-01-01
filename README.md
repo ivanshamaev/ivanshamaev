@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Shamaev</h1>
-<h3 align="center">Senior BI Developer (Qlik Sense, Apache Superset)</h3>
+<h3 align="center">Team Lead of BI team at Sber Eapteka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanshamaev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanshamaev" /> </p>
-
-Hi, I’m Ivan Shamaev, a Team Lead of BI team at Sber Eapteka. I have over 10 years of experience in data analysis, business intelligence and report building. I’m passionate about finding insights from data and creating solutions that help businesses grow and improve.
+I have over 10 years of experience in data analysis, business intelligence and report building. I’m passionate about finding insights from data and creating solutions that help businesses grow and improve.
 
 Some of my skills and tools include:
 - SQL, Python, R, Power BI, Tableau, QlikView, SAP BO
