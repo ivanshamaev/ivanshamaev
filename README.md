@@ -4,10 +4,9 @@
 I have over 10 years of experience in data analysis, business intelligence and report building. I’m passionate about finding insights from data and creating solutions that help businesses grow and improve.
 
 Some of my skills and tools include:
-- SQL, Python, R, Power BI, Tableau, QlikView, SAP BO
-- Data warehousing, ETL, OLAP, data modeling, data visualization, reporting, dashboarding
-- Machine learning, predictive analytics, statistical modeling, optimization, clustering, classification, regression
-- Agile, Scrum, Kanban, TDSP, Azure DevOps, GitHub
+- Qlik Products (Qlik Sense, QlikView, NPrinting), Apache Superset, Yandex DataLens, SQL, Python
+- Data warehousing, ETL, OLAP, Data Modeling, Data Visualization, Reporting, Dashboarding
+- Agile, Scrum, GitHub, Docker, ClickHouse, PostgreSQL, GreenPlum, Apache Airflow
 
 As a Team Lead, I’m responsible for:
 - Managing a team of data analysts
@@ -22,7 +21,7 @@ You can find more about me and my projects on my website or connect with me on L
 
 - 🔭 I’m currently working on **Yandex DataLens, Qlik Sense, Apache Superset**
 
-- 🌱 I’m currently learning **Python, Apache Airflow, ClickHouse**
+- 🌱 I’m currently improving my hard skills in directions: **Python, Apache Airflow, ClickHouse**
 
 <p align="left">
 </p>
