@@ -3,7 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanshamaev&label=Profile%20views&color=0e75b6&style=flat" alt="ivanshamaev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanshamaev&row=2&column=4" alt="ivanshamaev" /></a> </p>
+Hi, I’m Ivan Shamaev, a Team Lead of BI team at Sber Eapteka. I have over 10 years of experience in data analysis, business intelligence and report building. I’m passionate about finding insights from data and creating solutions that help businesses grow and improve.
+
+Some of my skills and tools include:
+- SQL, Python, R, Power BI, Tableau, QlikView, SAP BO
+- Data warehousing, ETL, OLAP, data modeling, data visualization, reporting, dashboarding
+- Machine learning, predictive analytics, statistical modeling, optimization, clustering, classification, regression
+- Agile, Scrum, Kanban, TDSP, Azure DevOps, GitHub
+
+As a Team Lead, I’m responsible for:
+- Managing a team of data analysts
+- Defining goals, strategy, and roadmap for data and analytics projects
+- Communicating with stakeholders and other teams
+- Organizing documents, tasks, and workflows
+- Mentoring, coaching, and developing the skills of my team members
+
+I’m always eager to learn new technologies and methods, and to share my knowledge and experience with others. I’m also interested in open source projects and communities related to data and analytics.
+
+You can find more about me and my projects on my website or connect with me on LinkedIn.
 
 - 🔭 I’m currently working on **Yandex DataLens, Qlik Sense, Apache Superset**
 
