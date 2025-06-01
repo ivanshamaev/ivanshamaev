@@ -1,27 +1,20 @@
 <h1 align="center">Hi 👋, I'm Ivan Shamaev</h1>
-<h3 align="center">Team Lead of BI team at Sber Eapteka</h3>
 
-I have over 10 years of experience in data analysis, business intelligence and report building. I’m passionate about finding insights from data and creating solutions that help businesses grow and improve.
 
-Some of my skills and tools include:
-- Qlik Products (Qlik Sense, QlikView, NPrinting), Apache Superset, Yandex DataLens, SQL, Python
-- Data warehousing, ETL, OLAP, Data Modeling, Data Visualization, Reporting, Dashboarding
-- Agile, Scrum, GitHub, Docker, ClickHouse, PostgreSQL, GreenPlum, Apache Airflow
+## Senior DWH Developer / Ex-BI Team Lead
 
-As a Team Lead, I’m responsible for:
-- Managing a team of data analysts
-- Defining goals, strategy, and roadmap for data and analytics projects
-- Communicating with stakeholders and other teams
-- Organizing documents, tasks, and workflows
-- Mentoring, coaching, and developing the skills of my team members
+🎯 **Over 14 years in IT**, specializing in **Data Warehousing**, **Data Delivery Pipelines**, and **BI Platforms**. Proven experience designing and implementing robust data solutions to support large-scale analytics and business decision-making.
 
-I’m always eager to learn new technologies and methods, and to share my knowledge and experience with others. I’m also interested in open source projects and communities related to data and analytics.
+🚀 **Currently contributing to Ozon Tech**, building and optimizing scalable, high-performance DWH solutions using:
 
-You can find more about me and my projects on my website or connect with me on LinkedIn.
+- **Tech Stack:** MSSQL, Vertica, Apache Spark, Airflow, HDFS, Trino, Iceberg  
+- **Key Concepts:** Anchor Modeling, Data Vault, DWH architecture  
+- **Focus Areas:** Development of DDS (Data Distribution Service) and Data Marts layers, orchestration of complex ETL pipelines, data quality and governance
 
-- 🔭 I’m currently working on **Yandex DataLens, Qlik Sense, Apache Superset**
+🔧 **Former BI Team Lead** with a strong background in analytics platforms, data modeling, and business intelligence delivery. Skilled in cross-functional team collaboration and mentoring.
 
-- 🌱 I’m currently improving my hard skills in directions: **Python, Apache Airflow, ClickHouse**
+📄 **Full CV:** [ivan-shamaev.ru/cv](https://ivan-shamaev.ru/cv/)
+
 
 <p align="left">
 </p>
