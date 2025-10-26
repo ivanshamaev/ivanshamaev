@@ -11,12 +11,11 @@
 - **Key Concepts:** Anchor Modeling, Data Vault, DWH architecture, Data Lake / Data LakeHouse
 - **Focus Areas:** Development of DDS Layer and Data Marts layer, orchestration of complex ETL pipelines, data quality and governance
 - **Additional Skills:** Python, s3, Kafka, Docker
-- **BI Tools:** Qlik, Apache Superset, Yandex DataLens
 
-🔧 **Former BI Team Lead** with a strong background in analytics platforms, data modeling, and business intelligence delivery. Skilled in cross-functional team collaboration and mentoring.
+
+🔧 **Former BI Team Lead** with a strong background in analytics platforms, data modeling, and business intelligence delivery. Skilled in cross-functional team collaboration and mentoring. **Viz Tools:** Qlik, Apache Superset, Yandex DataLens, Grafana
 
 📄 **Full CV:** [ivan-shamaev.ru/cv](https://ivan-shamaev.ru/cv/)
-
 
 <p align="left">
 </p>
