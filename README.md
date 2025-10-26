@@ -3,13 +3,15 @@
 
 ## Senior DWH Developer / Ex-BI Team Lead
 
-🎯 **Over 14 years in IT**, specializing in **Data Warehousing**, **Data Delivery Pipelines**, and **BI Platforms**. Proven experience designing and implementing robust data solutions to support large-scale analytics and business decision-making.
+🎯 **Over 15 years in IT**, specializing in **Data Warehousing**, **Data Delivery Pipelines**, and **BI Platforms**. Proven experience designing and implementing robust data solutions to support large-scale analytics and business decision-making.
 
 🚀 **Currently contributing to Ozon Tech**, building and optimizing scalable, high-performance DWH solutions using:
 
 - **Tech Stack:** MSSQL, Vertica, Apache Spark, Airflow, HDFS, Trino, Iceberg  
-- **Key Concepts:** Anchor Modeling, Data Vault, DWH architecture  
+- **Key Concepts:** Anchor Modeling, Data Vault, DWH architecture, Data Lake / Data LakeHouse
 - **Focus Areas:** Development of DDS Layer and Data Marts layer, orchestration of complex ETL pipelines, data quality and governance
+- **Additional Skills:** Python, s3, Kafka, Docker
+- **BI Tools:** Qlik, Apache Superset, Yandex DataLens
 
 🔧 **Former BI Team Lead** with a strong background in analytics platforms, data modeling, and business intelligence delivery. Skilled in cross-functional team collaboration and mentoring.
 
@@ -30,11 +32,6 @@
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivanshamaev&show_icons=true&locale=en&layout=compact" alt="ivanshamaev" /></p>
