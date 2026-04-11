@@ -57,13 +57,12 @@ sources → ingestion → orchestration → DWH / lakehouse → marts → BI / A
 | Period | Company | Role |
 |---|---|---|
 | Nov 2024 – present | **Ozon Tech** | Senior DWH Developer |
-| Dec 2023 – Nov 2024 | **еАптека** | TeamLead BI & Acting DWH Director |
+| Dec 2023 – Nov 2024 | **eapteka.ru** | TeamLead BI & Acting DWH TeamLead |
 | Aug 2020 – Nov 2023 | **TheSoul Publishing** (Cyprus) | Senior BI Developer |
-| May 2017 – Jul 2020 | **Лудинг** | Leading Business Analyst – QlikView |
-| Nov 2014 – May 2017 | **Дикси** | Oracle Hyperion & QlikView Consultant |
+| May 2017 – Jul 2020 | **Luding** | Leading Business Analyst – QlikView |
+| Nov 2014 – May 2017 | **Dixy** | Oracle Hyperion & QlikView Consultant |
 | Sep 2013 – Nov 2014 | **АльфаСтрахование** | Systems Analyst – Hyperion Planning |
 | Oct 2011 – Aug 2013 | **Glowbyte Consulting** | Financial Solutions Consultant |
-| Sep 2010 – Sep 2011 | **Март-консалтинг** | ERP Consultant |
 
 <details>
   <summary><strong>Key achievements by role</strong></summary>
@@ -75,7 +74,7 @@ sources → ingestion → orchestration → DWH / lakehouse → marts → BI / A
 
   **TheSoul Publishing** — Deployed Apache Superset as a Qlik replacement (significant licence cost reduction); built plan-vs-fact automation saving 90% of reporting time; 3-layer Facebook API ETL pipeline; custom Superset plugins in React/TypeScript.
 
-  **Лудинг** — Sales funnel analysis, multi-API PHP extractors, C# Windows Service for NPrinting; awarded **Best Employee Q4 2019**.
+  **Luding** — Sales funnel analysis, multi-API PHP extractors, C# Windows Service for NPrinting; awarded **Best Employee Q4 2019**.
 
 </details>
 
