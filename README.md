@@ -139,7 +139,7 @@ sources → ingestion → orchestration → DWH / lakehouse → marts → BI / A
 
 **DWH Modeling**
 
-Data Vault 2.0 · Anchor Modeling · Kimball · Inmon
+Data Vault 2.0 · Anchor Modeling · Kimball
 
 ---
 
