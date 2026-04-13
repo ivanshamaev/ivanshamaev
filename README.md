@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,35:0F766E,70:0284C7,100:38BDF8&text=Ivan%20Shamaev&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Senior%20Data%20Engineer%20%7C%20AI%20Agent%20Engineer&descAlignY=58&animation=fadeIn" alt="Ivan Shamaev banner" />
+  <img src="https://raw.githubusercontent.com/ivanshamaev/ivanshamaev/main/images/banner.svg" alt="Ivan Shamaev banner" />
 </p>
 
 <p align="center">
